@@ -17,6 +17,9 @@ function App() {
         >
           Learn React
         </a>
+        <div className='Rectangle'>
+
+        </div>
       </header>
     </div>
   );

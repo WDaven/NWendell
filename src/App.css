@@ -30,8 +30,8 @@
 
 .Rectangle{
     height: 370px;
-    width: 370px;
-    background-color: #F5F5F5;
+    width: 800px;
+    background-color: green;
     justify-content: center;
     align-items: center;
     display: flex;
